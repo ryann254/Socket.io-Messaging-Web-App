@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+			"lib": ["es6"],
+			"esModuleInterop": true,
+			"strictNullChecks": true,
+			"skipLibCheck": true,
+			"outDir": "build"
+		}
+}
